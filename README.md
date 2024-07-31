@@ -1,3 +1,4 @@
 # transtech_servicenow_application
 
-Please read the provided application documentation pdf file in the reprository!
+This repository includes the xml file of TransTech application's update set.
+Please read the provided application documentation pdf for more information about the application.
